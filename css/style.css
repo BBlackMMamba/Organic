@@ -24,7 +24,6 @@ nav,
     color: #274C5B;
     margin-right: 35px;
     line-height: 24px;
-    ;
 }
 
 .menu_arrow {
@@ -34,7 +33,7 @@ nav,
 /*First Two Banners*/
 
 .main_Banner {
-    height: 400px;
+    height: 350px;
     width: 100vw;
 }
 
@@ -59,7 +58,6 @@ nav,
     font-weight: 800;
     color: #274C5B;
     margin-bottom: 28px;
-
 }
 
 .main_Info {
@@ -122,6 +120,7 @@ nav,
     margin-top: 56px;
     margin-bottom: 11px;
 }
+
 .farm_Your_Land-Text{
     font-family: 'Open Sans';
     font-size: 18px;
@@ -140,3 +139,113 @@ nav,
     border-radius: 20px;
     margin: 100px auto 80px auto;
 }
+
+/*Footer*/
+
+.footer_wrapper{
+    width:100vw; 
+    padding-bottom: 25px;
+}
+.contact_Us, .utility_Pages{
+    display:inline-block;
+    vertical-align: top;
+    width:285px;
+    margin-bottom: 61px;
+}
+
+.contact_Us_List-Title, .utility_Title{
+    font-family: 'Roboto';
+    font-size:30px;
+    font-weight:700;
+    line-height: 44px;
+    color: #274C5B;
+    margin-bottom: 26px;
+}
+
+.contact_Us {
+    margin-left: 210px;
+}
+
+.info_Organic {
+    display:inline-block;
+    text-align: center;
+}
+
+.logo_For_Footer-Organic {
+    height: 36px;
+    vertical-align: middle;
+    margin-bottom: 28px;
+}
+
+.organic_Info-Title {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Roboto';
+    font-size:38px;
+    font-weight:700;
+    line-height: 35px;
+    color: #274C5B;
+    margin-bottom: 26px;
+}
+
+.organic_Footer_info-Text{
+    width:543px;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #525C60;
+}
+
+.right-margin-ft{
+    margin-right: 70px;
+}
+
+.contact{
+    display:block;
+    font-weight: bold;
+}
+
+.contact_List-item, .utility_List-item {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #525C60;
+    margin-bottom:25px;
+}
+
+.utility_List-item{
+    color: #525C60;
+    margin-bottom:25px;
+}
+
+.utility_List-item a{
+    color: #525C60;
+}
+
+.copy_Right{
+    width: 699px;
+    height:30px;
+    text-align: center;    
+    margin:auto;
+}
+
+.copy_Right_List-item{
+    display: inline-block;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #525C60;
+}
+
+.bolder{
+    font-weight: 700;
+}
+
+hr{
+    margin-bottom: 20px;
+}
+
+
