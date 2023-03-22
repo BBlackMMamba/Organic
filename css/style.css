@@ -74,11 +74,13 @@ nav,
 }
 
 .textWrapper{
-    width:537px;
+    width:530px;
     height: 240px;
     display: inline-block;
     vertical-align: top;
     padding: 63px 45px 63px 45px; 
+    background-color: #F9F8F8;
+    margin-right: 5px;
 }
 
 .why_Img,
@@ -86,6 +88,7 @@ nav,
     height: 240px;
     width: 400px;
     border-radius: 18px;
+    margin-right: 5px;
 }
 
 .why_Title,
